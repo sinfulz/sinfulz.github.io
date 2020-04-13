@@ -6,4 +6,4 @@ permalink: /contact/
 
 You can contact me below:
 
-Email: <a href="mailto:{{sinfulz@protonmail.com}}">{{sinfulz@protonmail.com}}</a>
+Email: <a href="mailto:{{site.mail}}">{{sinfulz@protonmail.com}}</a>
