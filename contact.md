@@ -4,6 +4,6 @@ layout: post
 permalink: /contact/
 ---
 
-May be a contact form.
+You can contact me below:
 
-Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
+Email: <a href="mailto:{{sinfulz@protonmail.com}}">{{site.email}}</a>
