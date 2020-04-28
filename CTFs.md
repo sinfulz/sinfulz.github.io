@@ -1,3 +1,9 @@
+---
+title: CTFs
+layout: post
+permalink: /CTFs/
+---
+
 CTF Achievements:
 
 2018
