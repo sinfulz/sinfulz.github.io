@@ -1,5 +1,5 @@
 ---
-title: CTF
+title: ctf
 layout: post
 permalink: /ctf/
 published: true
