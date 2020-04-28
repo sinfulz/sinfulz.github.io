@@ -1,7 +1,7 @@
 ---
-title: CTFs
+title: CTF
 layout: post
-permalink: /CTFs/
+permalink: /ctf/
 published: true
 ---
 
