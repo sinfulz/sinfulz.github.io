@@ -2,6 +2,7 @@
 title: CTFs
 layout: post
 permalink: /CTFs/
+published: true
 ---
 
 CTF Achievements:
