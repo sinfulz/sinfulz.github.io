@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://sinfulz.github.io/sinfulz.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 01:33:00 -0500</lastBuildDate><atom:link href="https://sinfulz.github.io/sinfulz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://sinfulz.github.io/sinfulz.github.io/docs/test/</link>
+      <pubDate>Mon, 06 Mar 2023 01:33:00 -0500</pubDate>
+      
+      <guid>https://sinfulz.github.io/sinfulz.github.io/docs/test/</guid>
+      <description>This is a test page. This is a test page!</description>
+    </item>
+    
+  </channel>
+</rss>
